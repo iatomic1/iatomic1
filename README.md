@@ -1,4 +1,4 @@
-# 🏄‍♂️ <Atomic />
+# 🏄‍♂️ Atomic />
 
 **`Software engineer`**
 
