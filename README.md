@@ -21,4 +21,3 @@ I'm a Software developer and content creator building my version of the digital 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adeyemialameen04&theme=dark&card_width=500)](https://git.io/streak-stats)
